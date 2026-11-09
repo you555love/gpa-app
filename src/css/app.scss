@@ -1,0 +1,15 @@
+// app global css
+@font-face {
+  font-family: prompt;
+  src: url(./fonts/Prompt-Regular.ttf);
+}
+
+//ต้องเรียก class เพื่อเปลี่ยน Font
+// .myfont {
+//   font-family: 'prompt', sans-serif;
+// }
+
+//เปลี่ยน Font ทั้งหมด
+body {
+  font-family: 'prompt', sans-serif;
+}
